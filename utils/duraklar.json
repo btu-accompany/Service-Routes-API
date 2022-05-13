@@ -1,0 +1,30 @@
+[{
+        "DurakKodu": "D0432",
+        "DurakAdi": "NİLÜFER METRO İSTASYONU YANI"
+    },
+    {
+        "DurakKodu": "D0431",
+        "DurakAdi": "KENT MEYDANI ÖNÜ"
+    },
+    {
+        "DurakKodu": "D0433",
+        "DurakAdi": "EMİRSULTAN CAMİİ"
+    },
+    {
+        "DurakKodu": "D0434",
+        "DurakAdi": "EMİR SULTAN MEZARLIĞI"
+    },
+    {
+        "DurakKodu": "D0435",
+        "DurakAdi": "ORHANGAZİ KYK YURDU"
+    },
+    {
+        "Saatler": [
+            "06:30",
+            "06:45",
+            "07:00",
+            "07:15",
+            "07:30"
+        ]
+    }
+]
